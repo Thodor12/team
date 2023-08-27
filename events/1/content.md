@@ -1,3 +1,9 @@
+---
+name: "Blueberrypie255 MineColonies Village Building Event!
+description:: "Minecraft Players try to outcompete others in this crazy modded Minecraft event!
+start: 1691618400
+end: 1693432800
+---
 ## Event Information:
 - Minecraft players will join a Modded Minecraft server and have 3 weeks to build a Colony.
 - Players will be judged by their skill, biome choice, and how well their colony looks.
