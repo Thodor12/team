@@ -1,6 +1,6 @@
 ---
-name: "Blueberrypie255 MineColonies Village Building Event!
-description:: "Minecraft Players try to outcompete others in this crazy modded Minecraft event!
+name: Blueberrypie255 MineColonies Village Building Event!
+description: Minecraft Players try to outcompete others in this crazy modded Minecraft event!
 start: 1691618400
 end: 1693432800
 ---
