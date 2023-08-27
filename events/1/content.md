@@ -1,6 +1,3 @@
-# MineColonies Village Building Event!
-Minecraft Players try to outcompete others in this crazy modded Minecraft event!
-
 ## Event Information:
 - Minecraft players will join a Modded Minecraft server and have 3 weeks to build a Colony.
 - Players will be judged by their skill, biome choice, and how well their colony looks.
