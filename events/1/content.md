@@ -18,6 +18,6 @@ Join the most thrilling MineColonies event:
 
 Register your colony, prepare for battle, and become a legend!
 
-If you want to register your team or be randomly assigned to a team, sign up here: https://forms.gle/EmFStcc3f23TNdwXA
+If you want to join the event, please sign up on Patreon: https://www.patreon.com/Minecolonies
 
 More details on how things will be evaluated and which pack will be used will come in the future (1.20.1)
